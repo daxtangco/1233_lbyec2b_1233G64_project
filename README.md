@@ -20,8 +20,8 @@ A MATLAB-based password manager application that securely stores and manages use
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/daxtangco/1233_lbyec2b_1233G64_project.git
-    cd 1233_lbyec2b_1233G64_project
+    git clone https://github.com/daxtangco/Archers_Password_Inventory.git
+    cd Archers_Password_Inventory
     ```
 
 2. **Ensure you have the required dependencies installed:**
