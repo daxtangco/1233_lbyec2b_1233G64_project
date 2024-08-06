@@ -67,7 +67,7 @@ A MATLAB-based password manager application that securely stores and manages use
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributors
-Yuan Miguel Obias
-Dax Axis Tangco
-Aron Chaz Zuñiga
+# Yuan Miguel Obias\n
+# Dax Axis Tangco\n
+# Aron Chaz Zuñiga\n
 
